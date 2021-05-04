@@ -2,7 +2,8 @@
 
 Author : V.Sai Charan
 
-Description:- This project is a clock which tells you the current time and it updates every second. This app going to have all the functionalities of a clock that is in your mobile or pc.
+Description:- This project is a clock which tells you the current time and it updates every second. This app going to have all the functionalities of a clock that is in your mobile or pc. This is a react-based application.
+
 
 What you can do:- -> You can check the time.
 
